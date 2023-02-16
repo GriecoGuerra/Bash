@@ -1,4 +1,4 @@
-# Bash
+# Bash and Python
 
 To use the os_version.sh and get informations from remote server:  
 1 - chmod +x os_version.sh  
