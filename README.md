@@ -1,4 +1,4 @@
-# Bash
+# Python
 
 A few changes will be needed to test python.py:  
 1 - Change the directory of the output_1.txt inside the code and the input file can be used accordingly.  
